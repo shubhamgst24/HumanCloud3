@@ -1,0 +1,13 @@
+com\hc\lds\DataStructure.class
+com\hc\lds\dataStructures\MyQueue.class
+com\hc\lds\dataStructures\MyStack.class
+com\hc\lds\servlet\LDSServlet.class
+com\hc\lds\dataStructures\Node.class
+com\hc\lds\MenuStore.class
+com\hc\lds\DataClass\MenuItems.class
+com\hc\lds\dataStructures\MyLinkedList.class
+com\hc\lds\servlet\DataStructureServlet.class
+com\hc\lds\DataClass\Menu.class
+com\hc\lds\DataStructureStore.class
+com\hc\lds\dataStructures\MyArray.class
+com\hc\lds\servlet\MenuServlet.class
